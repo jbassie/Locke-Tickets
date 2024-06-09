@@ -1,5 +1,5 @@
-# EZ Tickets Rest API built with NodeJs, Express and MySql
-[![Node Build, Test And Lint CI](https://github.com/arafaysaleem/ez_tickets_backend/actions/workflows/build-test.yml/badge.svg)](https://github.com/arafaysaleem/ez_tickets_backend/actions/workflows/build-test.yml) [![Deploy To Heroku](https://github.com/arafaysaleem/ez_tickets_backend/actions/workflows/deploy.yml/badge.svg)](https://github.com/arafaysaleem/ez_tickets_backend/actions/workflows/deploy.yml) ![API Version](https://img.shields.io/badge/api--version-v1-orange) [![GitHub issues](https://img.shields.io/github/issues/arafaysaleem/ez_tickets_backend)](https://github.com/arafaysaleem/ez_tickets_backend/issues) [![GitHub forks](https://img.shields.io/github/forks/arafaysaleem/ez_tickets_backend)](https://github.com/arafaysaleem/ez_tickets_backend/network) [![GitHub stars](https://img.shields.io/github/stars/arafaysaleem/ez_tickets_backend)](https://github.com/arafaysaleem/ez_tickets_backend/stargazers) [![GitHub license](https://img.shields.io/github/license/arafaysaleem/ez_tickets_backend)](https://github.com/arafaysaleem/ez_tickets_backend) [![Docs badge](https://img.shields.io/badge/docs-active-yellow.svg)](https://shields.io/) <br>
+# Locke Tickets Rest API built with NodeJs, Express and MySql
+[![Node Build, Test And Lint CI](https://github.com/arafaysaleem/Locke_tickets_backend/actions/workflows/build-test.yml/badge.svg)](https://github.com/arafaysaleem/Locke_tickets_backend/actions/workflows/build-test.yml) [![Deploy To Heroku](https://github.com/arafaysaleem/Locke_tickets_backend/actions/workflows/deploy.yml/badge.svg)](https://github.com/arafaysaleem/Locke_tickets_backend/actions/workflows/deploy.yml) ![API Version](https://img.shields.io/badge/api--version-v1-orange) [![GitHub issues](https://img.shields.io/github/issues/arafaysaleem/Locke_tickets_backend)](https://github.com/arafaysaleem/Locke_tickets_backend/issues) [![GitHub forks](https://img.shields.io/github/forks/arafaysaleem/Locke_tickets_backend)](https://github.com/arafaysaleem/Locke_tickets_backend/network) [![GitHub stars](https://img.shields.io/github/stars/arafaysaleem/Locke_tickets_backend)](https://github.com/arafaysaleem/Locke_tickets_backend/stargazers) [![GitHub license](https://img.shields.io/github/license/arafaysaleem/Locke_tickets_backend)](https://github.com/arafaysaleem/Locke_tickets_backend) [![Docs badge](https://img.shields.io/badge/docs-active-yellow.svg)](https://shields.io/) <br>
 [![BadgeNodeJS](https://img.shields.io/badge/MADE%20WITH-NODEJS-brightgreen?style=for-the-badge&logo=Node.js)](https://shields.io/) [![BadgeExpress](https://img.shields.io/badge/USES-EXPRESS-red?style=for-the-badge)](https://shields.io/) [![BadgeMySQL](https://img.shields.io/badge/USES-MYSQL-4479A1?style=for-the-badge&logo=MySQL)](https://shields.io/) [![BadgeAWS](https://img.shields.io/badge/DATABASE-AWS%20RDS-FF9900?style=for-the-badge&logo=Amazon&20AWS)](https://shields.io/) [![BadgeHeroku](https://img.shields.io/badge/DEPLOYED-HEROKU-430098?style=for-the-badge&logo=Heroku)](https://shields.io/)
 
 
@@ -30,11 +30,10 @@ The release branch contains workflow to deploy to my own Heroku Service and won'
 
 ``` sh
 # Clone this repo to your local machine using
-git clone https://github.com/arafaysaleem/ez_tickets_backend
+git clone https://github.com/arafaysaleem/Locke_tickets
 
 # Get into the directory
-cd ez_tickets_backend
-
+cd Locke_tickets
 # Make it your own
 rm -rf .git && git init
 ```
@@ -66,7 +65,7 @@ echo -e 'node_modules \n envs \n' >> .gitignore
 
 #### 3. Setup MySQL database
 
-Import the ez_ticket.sql using your sql workbench to create the database.
+Import the Locke_ticket.sql using your sql workbench to create the database.
 
 #### 4. Setting up node js
 
@@ -139,11 +138,11 @@ This example uses a number of open source projects to work properly:
 * [eslint-config-strongloop]
 
 ### :bookmark_tabs: License
-EZ Tickets Backend © 2021 by Abdur Rafay Saleem is licensed under CC BY 4.0 
+Locke Tickets Backend © 2021 by Abdur Rafay Saleem is licensed under CC BY 4.0 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-   [git-repo-url]: <https://github.com/arafaysaleem/ez_tickets_backend>
+   [git-repo-url]: <https://github.com/arafaysaleem/Locke_tickets_backend>
    [node.js]: <http://nodejs.org>
    [express]: <http://expressjs.com>
    [@sendgrid/mail]: <https://github.com/sendgrid/sendgrid-nodejs>
