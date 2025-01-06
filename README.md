@@ -1,6 +1,5 @@
 # Locke Tickets Rest API built with NodeJs, Express and MySql
-[![Node Build, Test And Lint CI](https://github.com/arafaysaleem/Locke_tickets_backend/actions/workflows/build-test.yml/badge.svg)](https://github.com/arafaysaleem/Locke_tickets_backend/actions/workflows/build-test.yml) [![Deploy To Heroku](https://github.com/arafaysaleem/Locke_tickets_backend/actions/workflows/deploy.yml/badge.svg)](https://github.com/arafaysaleem/Locke_tickets_backend/actions/workflows/deploy.yml) ![API Version](https://img.shields.io/badge/api--version-v1-orange) [![GitHub issues](https://img.shields.io/github/issues/arafaysaleem/Locke_tickets_backend)](https://github.com/arafaysaleem/Locke_tickets_backend/issues) [![GitHub forks](https://img.shields.io/github/forks/arafaysaleem/Locke_tickets_backend)](https://github.com/arafaysaleem/Locke_tickets_backend/network) [![GitHub stars](https://img.shields.io/github/stars/arafaysaleem/Locke_tickets_backend)](https://github.com/arafaysaleem/Locke_tickets_backend/stargazers) [![GitHub license](https://img.shields.io/github/license/arafaysaleem/Locke_tickets_backend)](https://github.com/arafaysaleem/Locke_tickets_backend) [![Docs badge](https://img.shields.io/badge/docs-active-yellow.svg)](https://shields.io/) <br>
-[![BadgeNodeJS](https://img.shields.io/badge/MADE%20WITH-NODEJS-brightgreen?style=for-the-badge&logo=Node.js)](https://shields.io/) [![BadgeExpress](https://img.shields.io/badge/USES-EXPRESS-red?style=for-the-badge)](https://shields.io/) [![BadgeMySQL](https://img.shields.io/badge/USES-MYSQL-4479A1?style=for-the-badge&logo=MySQL)](https://shields.io/) [![BadgeAWS](https://img.shields.io/badge/DATABASE-AWS%20RDS-FF9900?style=for-the-badge&logo=Amazon&20AWS)](https://shields.io/) [![BadgeHeroku](https://img.shields.io/badge/DEPLOYED-HEROKU-430098?style=for-the-badge&logo=Heroku)](https://shields.io/)
+
 
 
 ### :memo: Documentation
@@ -30,7 +29,7 @@ The release branch contains workflow to deploy to my own Heroku Service and won'
 
 ``` sh
 # Clone this repo to your local machine using
-git clone https://github.com/arafaysaleem/Locke_tickets
+git clone https://github.com/jbassie/Locke_tickets
 
 # Get into the directory
 cd Locke_tickets
@@ -136,25 +135,3 @@ This example uses a number of open source projects to work properly:
 * [babel-eslint]
 * [mocha]
 * [eslint-config-strongloop]
-
-### :bookmark_tabs: License
-Locke Tickets Backend © 2021 by Abdur Rafay Saleem is licensed under CC BY 4.0 
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-   [git-repo-url]: <https://github.com/arafaysaleem/Locke_tickets_backend>
-   [node.js]: <http://nodejs.org>
-   [express]: <http://expressjs.com>
-   [@sendgrid/mail]: <https://github.com/sendgrid/sendgrid-nodejs>
-   [bcryptjs]: <https://github.com/dcodeIO/bcrypt.js#readme>
-   [cors]: <https://github.com/expressjs/cors#readme>
-   [cross-env]: <https://github.com/kentcdodds/cross-env>
-   [deep-email-validator]: <https://github.com/mfbx9da4/deep-email-validator>
-   [dotenv-flow]: <https://github.com/kerimdzhanov/dotenv-flow>
-   [express-validator]: <https://express-validator.github.io/docs/>
-   [jsonwebtoken]: <https://github.com/auth0/node-jsonwebtoken#readme>
-   [mysql2]: <https://github.com/sidorares/node-mysql2#readme>
-   [otp-generator]: <https://github.com/Maheshkumar-Kakade/otp-generator#readme>
-   [babel-eslint]: <https://github.com/babel/babel-eslint>
-   [mocha]: <https://github.com/mochajs/mocha>
-   [eslint-config-strongloop]: <https://github.com/strongloop/eslint-config-strongloop>
